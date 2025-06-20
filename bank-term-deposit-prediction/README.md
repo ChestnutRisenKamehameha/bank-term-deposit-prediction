@@ -1,5 +1,3 @@
-# xgboost-bankmarketing
-
 # Bank Marketing Term Deposit Prediction
 
 This project uses machine learning to predict whether a client will subscribe to a term deposit based on data from a Portuguese bank's marketing campaigns.
