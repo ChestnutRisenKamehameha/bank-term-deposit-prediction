@@ -77,11 +77,3 @@ A bar chart compares the performance of the models:
 ![Model Comparison](./comparison_chart.png)
 
 ---
-
-## How to Run
-
-```bash
-git clone https://github.com/yourusername/bank-term-deposit-prediction.git
-cd bank-term-deposit-prediction
-pip install -r requirements.txt
-python predict.py
