@@ -76,8 +76,6 @@ A bar chart compares the performance of the models:
 
 ![Model Comparison](./comparison_chart.png)
 
-*(Make sure to save the chart as `comparison_chart.png` if you want this to show up)*
-
 ---
 
 ## How to Run
